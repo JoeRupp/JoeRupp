@@ -3,7 +3,7 @@
 <!--   <img alt="Joe Rupp Design logo over black topo map pattern" src="https://user-images.githubusercontent.com/96392562/165578421-5886ccef-806d-4448-a25d-b30a56cb9d72.png"> -->
 </div>
   
-<h1 align='center'>Hey, I'm Joe
+<h1 align='center'>Hey there
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -21,7 +21,7 @@
 </div>
 
 ## About Me:
-I am currently a student at Turing School of Software and Design, working to become a Front End Software Developer. Before switching to software as a full-time pursuit, I worked in the Talent Attraction space - the marketing and branding around recruiting talent to a company. As I work to become a developer, I plan to weave my skills of brand, marketing, and design into my development to build projects with lasting experiences.
+I am currently a student at Turing School of Software and Design, working to become a Front End Software Developer. Before switching to software as a full-time pursuit, I worked in the video game industry in the Talent Attraction space - the marketing and branding around recruiting talent to a company. As I work to become a developer, I plan to weave my skills of brand, marketing, and design into my development to build projects with lasting experiences.
 
 <p>
    <a href="https://www.linkedin.com/in/joseph-rupp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -42,7 +42,7 @@ I am currently a student at Turing School of Software and Design, working to bec
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
-  <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
 </p>
 
 ## Tools:
@@ -52,9 +52,9 @@ I am currently a student at Turing School of Software and Design, working to bec
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mac_Terminal-222222.svg?&style=for-the-badge&logo=windowsterminal&logoColor=43CF0B"/>
+  <img src="https://img.shields.io/badge/iOS-ECECEC?style=for-the-badge&logo=apple&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-ECECEC?style=for-the-badge&logo=apple&logoColor=black"/>
   <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 </p>
 <p>
