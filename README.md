@@ -21,7 +21,9 @@
 </div>
 
 ## About Me:
-I am currently a student at Turing School of Software and Design, working to become a Front End Software Developer. Before switching to software as a full-time pursuit, I worked in the video game industry in the Talent Attraction space - the marketing and branding around recruiting talent to a company. As I work to become a developer, I plan to weave my skills of brand, marketing, and design into my development to build projects with lasting experiences.
+I am a Front End Developer with a passion for solving challenging problems while creating an awesome user-experience. I thrive in collaborative and creative environments that provide me the opportunity to always be learning new things.
+
+Before switching to software as a full-time pursuit, I worked in the video game industry in the Talent Attraction space - the marketing and branding behind recruiting talent to a company. As a developer, I weave my previous experience in brand, project management, and design into my workflow to build projects that create lasting impressions.
 
 <p>
    <a href="https://www.linkedin.com/in/joseph-rupp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -54,9 +56,9 @@ I am currently a student at Turing School of Software and Design, working to bec
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-222222.svg?&style=for-the-badge&logo=gnubash&logoColor=43CF0B"/>
   <img src="https://img.shields.io/badge/iOS-ECECEC?style=for-the-badge&logo=apple&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Photoshop-262626?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF?"/>
@@ -68,7 +70,7 @@ I am currently a student at Turing School of Software and Design, working to bec
 ## Processes:
 <p>
   <img src="https://img.shields.io/badge/OOP%20-EDD016.svg?&style=for-the-badge&logo=OOP&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TDD%20-EF820E.svg?&style=for-the-badge&logo=TDD&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TDD%20-6EEE80.svg?&style=for-the-badge&logo=TDD&logoColor=black"/>
   <img src="https://img.shields.io/badge/AGILE%20-2A82E2.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
 </p>
 
