@@ -1,8 +1,8 @@
 <div align=center>
-   <img height="250em" alt="Joe Rupp Design logo" src="https://user-images.githubusercontent.com/96392562/165592991-00ba8265-b985-48eb-a9c1-cf00ecefbcef.png">
+   <img height="250em" alt="Joe Rupp Design logo" src="https://user-images.githubusercontent.com/96392562/167263408-cb18367b-fef5-463d-8439-f79219a7af20.png">
 <!--   <img alt="Joe Rupp Design logo over black topo map pattern" src="https://user-images.githubusercontent.com/96392562/165578421-5886ccef-806d-4448-a25d-b30a56cb9d72.png"> -->
 </div>
-  
+
 <h1 align='center'>Hey there
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
