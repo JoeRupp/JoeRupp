@@ -21,7 +21,7 @@
 </div>
 
 ## About Me:
-I am a Front End Developer with a passion for solving challenging problems while creating an awesome user-experience. I thrive in collaborative and creative environments that provide me the opportunity to always be learning new things.
+I am a Front-end Developer with a passion for solving challenging problems while creating an awesome user-experience. I thrive in collaborative and creative environments that provide me the opportunity to always be learning new things.
 
 Before switching to software as a full-time pursuit, I worked in the video game industry in the Talent Attraction space - the marketing and branding behind recruiting talent to a company. As a developer, I weave my previous experience in brand, project management, and design into my workflow to build projects that create lasting impressions.
 
