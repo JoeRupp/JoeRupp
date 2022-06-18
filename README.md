@@ -57,7 +57,6 @@ Before switching to software as a full-time pursuit, I worked in the video game 
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-222222.svg?&style=for-the-badge&logo=gnubash&logoColor=43CF0B"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-ECECEC?style=for-the-badge&logo=apple&logoColor=black"/>
@@ -78,6 +77,8 @@ Before switching to software as a full-time pursuit, I worked in the video game 
   <img src="https://img.shields.io/badge/TDD%20-6EEE80.svg?&style=for-the-badge&logo=TDD&logoColor=black"/>
   <img src="https://img.shields.io/badge/AGILE%20-2A82E2.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
   <img src="https://img.shields.io/badge/RESTful APIs%20-AD51E0.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UX/UI%20-212224.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive Design%20-801401.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
 </p>
 
 
