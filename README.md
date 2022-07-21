@@ -45,11 +45,14 @@ Before switching to software as a full-time pursuit, I worked in the video game 
   <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
 </p>
 
 ## Tools:
@@ -78,7 +81,7 @@ Before switching to software as a full-time pursuit, I worked in the video game 
   <img src="https://img.shields.io/badge/AGILE%20-2A82E2.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
   <img src="https://img.shields.io/badge/RESTful APIs%20-AD51E0.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
   <img src="https://img.shields.io/badge/UX/UI%20-212224.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive Design%20-801401.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive Design%20-CA4245.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
 </p>
 
 
