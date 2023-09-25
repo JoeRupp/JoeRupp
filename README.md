@@ -44,7 +44,6 @@ Before switching to software as a full-time pursuit, I worked in the video game 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -53,7 +52,6 @@ Before switching to software as a full-time pursuit, I worked in the video game 
   <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
   <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
   <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Chakra UI-319795?style=for-the-badge&logo=chakraui&logoColor=white"/>
 </p>
 
 ## Tools:
@@ -77,7 +75,6 @@ Before switching to software as a full-time pursuit, I worked in the video game 
   <img src="https://img.shields.io/badge/Photoshop-262626?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF?"/>
   <img src="https://img.shields.io/badge/InDesign-262626?style=for-the-badge&logo=adobeindesign&logoColor=FF3366"/>
   <img src="https://img.shields.io/badge/XD-262626?style=for-the-badge&logo=adobexd&logoColor=#FF61F6"/>
-  <img src="https://img.shields.io/badge/Blender-262626?style=for-the-badge&logo=blender&logoColor=#F5792A"/>
 </p>
 
 ## Processes/Concepts:
