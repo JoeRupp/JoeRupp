@@ -21,9 +21,9 @@
 </div>
 
 ## About Me:
-I am a Front-End Developer with a passion for solving challenging problems while creating an awesome user-experience. I thrive in collaborative and creative environments that provide me the opportunity to always be learning new things.
+I am a Software Engineer with a passion for solving challenging problems while creating an awesome user experience. I thrive in collaborative and creative environments that provide me the opportunity to learn and ownership of the products I help to build.
 
-Before switching to software as a full-time pursuit, I worked in the video game industry in the Talent Attraction space - the marketing and branding behind recruiting talent to a company. As a developer, I weave my previous experience in brand, project management, and design into my workflow to build projects that create lasting impressions.
+Before switching to software as a full-time pursuit, I worked in the video game industry in the marketing and branding space behind recruiting talent to a company. As a developer, I weave my previous experience in brand, project management, and design into my workflow to build projects that create lasting impressions.
 
 <p>
    <a href="https://www.linkedin.com/in/joseph-rupp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -59,8 +59,8 @@ Before switching to software as a full-time pursuit, I worked in the video game 
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-222222.svg?&style=for-the-badge&logo=gnubash&logoColor=43CF0B"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
